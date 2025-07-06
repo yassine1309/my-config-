@@ -1,9 +1,38 @@
 {
-  "servers": [
+  "http_custom_servers": [
     {
-      "country": "🇲🇦",
-      "name": "سيرفور EDK المغرب",
-      "link": "https://raw.githubusercontent.com/yassine1309/my-config-/main/edk.hc"
+      "name": "سيرفور UDP عادي",
+      "config_url": "https://your-domain.com/path/to/udp_normal.hc"
+    },
+    {
+      "name": "سيرفور UDP VIP",
+      "config_url": "https://your-domain.com/path/to/udp_vip.hc"
+    },
+    {
+      "name": "سيرفور IAM عادي",
+      "config_url": "https://your-domain.com/path/to/iam_normal.hc"
+    },
+    {
+      "name": "سيرفور IAM VIP",
+      "config_url": "https://your-domain.com/path/to/iam_vip.hc"
+    },
+    {
+      "name": "سيرفور Inwi *6 عادي",
+      "config_url": "https://your-domain.com/path/to/inwi6_normal.hc"
+    },
+    {
+      "name": "سيرفور Inwi *6 VIP",
+      "config_url": "https://your-domain.com/path/to/inwi6_vip.hc"
+    }
+  ],
+  "ziv_vpn_servers": [
+    {
+      "name": "ZIV سيرفور عادي",
+      "config_url": "https://your-domain.com/path/to/ziv_normal.ziv"
+    },
+    {
+      "name": "ZIV سيرفور VIP",
+      "config_url": "https://your-domain.com/path/to/ziv_vip.ziv"
     }
   ]
 }
