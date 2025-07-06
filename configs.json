@@ -1,37 +1,37 @@
 {
   "http_custom_servers": [
     {
-      "name": "🚀 UDP - Fast Server",
+      "name": "🚀 UDP - Express",
       "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/edk.hc"
     },
     {
-      "name": "💎 UDP - Premium VIP",
+      "name": "💎 UDP - Apex",
       "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/udp_vip.hc"
     },
     {
-      "name": "🌐 IAM - Standard",
+      "name": "🌐 IAM - Essential",
       "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/iam_normal.hc"
     },
     {
-      "name": "👑 IAM - Royal VIP",
+      "name": "👑 IAM - Royal",
       "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/iam_vip.hc"
     },
     {
-      "name": "📶 INWI *6 - Normal",
+      "name": "📶 INWI *6 - Prime",
       "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/inwi6_normal.hc"
     },
     {
-      "name": "⚡️ INWI *6 - Lightning VIP",
+      "name": "⚡️ INWI *6 - Lightning",
       "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/inwi6_vip.hc"
     }
   ],
   "ziv_vpn_servers": [
     {
-      "name": "🛡️ ZIV - Standard Shield",
+      "name": "🛡️ ZIV - Guardian Shield",
       "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/ziv_normal.ziv"
     },
     {
-      "name": "⚔️ ZIV - Elite Guard VIP",
+      "name": "⚔️ ZIV - Vanguard",
       "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/ziv_vip.ziv"
     }
   ]
