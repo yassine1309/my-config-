@@ -10,7 +10,7 @@
     },
     {
       "name": "🌐 IAM - Essential",
-      "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/ayor.hc"
+      "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/iam_normal.hc"
     },
     {
       "name": "👑 IAM - Royal",
@@ -23,6 +23,10 @@
     {
       "name": "⚡️ INWI *6 - Lightning",
       "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/inwi6_vip.hc"
+    },
+    {
+      "name": "🔑 Ayor - Unlocked",
+      "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/ayor.hc"
     }
   ],
   "ziv_vpn_servers": [
