@@ -2,7 +2,7 @@
   "http_custom_servers": [
     {
       "name": "سيرفور UDP عادي",
-      "config_url": "https://your-domain.com/path/to/udp_normal.hc"
+      "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/refs/heads/main/edk.hc"
     },
     {
       "name": "سيرفور UDP VIP",
