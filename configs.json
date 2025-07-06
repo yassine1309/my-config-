@@ -1,38 +1,38 @@
 {
   "http_custom_servers": [
     {
-      "name": "سيرفور UDP عادي",
-      "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/refs/heads/main/edk.hc"
+      "name": "🚀 UDP - Fast Server",
+      "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/edk.hc"
     },
     {
-      "name": "سيرفور UDP VIP",
-      "config_url": "https://your-domain.com/path/to/udp_vip.hc"
+      "name": "💎 UDP - Premium VIP",
+      "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/udp_vip.hc"
     },
     {
-      "name": "سيرفور IAM عادي",
-      "config_url": "https://your-domain.com/path/to/iam_normal.hc"
+      "name": "🌐 IAM - Standard",
+      "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/iam_normal.hc"
     },
     {
-      "name": "سيرفور IAM VIP",
-      "config_url": "https://your-domain.com/path/to/iam_vip.hc"
+      "name": "👑 IAM - Royal VIP",
+      "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/iam_vip.hc"
     },
     {
-      "name": "سيرفور Inwi *6 عادي",
-      "config_url": "https://your-domain.com/path/to/inwi6_normal.hc"
+      "name": "📶 INWI *6 - Normal",
+      "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/inwi6_normal.hc"
     },
     {
-      "name": "سيرفور Inwi *6 VIP",
-      "config_url": "https://your-domain.com/path/to/inwi6_vip.hc"
+      "name": "⚡️ INWI *6 - Lightning VIP",
+      "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/inwi6_vip.hc"
     }
   ],
   "ziv_vpn_servers": [
     {
-      "name": "ZIV سيرفور عادي",
-      "config_url": "https://your-domain.com/path/to/ziv_normal.ziv"
+      "name": "🛡️ ZIV - Standard Shield",
+      "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/ziv_normal.ziv"
     },
     {
-      "name": "ZIV سيرفور VIP",
-      "config_url": "https://your-domain.com/path/to/ziv_vip.ziv"
+      "name": "⚔️ ZIV - Elite Guard VIP",
+      "config_url": "https://raw.githubusercontent.com/yassine1309/my-config-/main/ziv_vip.ziv"
     }
   ]
 }
